@@ -79,7 +79,6 @@ MEDIA */
     }
     .player{
         min-height: 400px;
-        padding: 20px 50px;
         width: 50%;
         border: 1px solid #395B64;
     }
