@@ -37,7 +37,6 @@ img{
 
 .player{
     min-height: 600px;
-    padding: 20px 50px;
     width: 50%;
     border: 1px solid #395B64;
 }
@@ -66,6 +65,10 @@ img{
     font-size: 2rem;
 }
 
+#header{
+    min-height: 200px;
+}
+
 #footer{
     position: relative;
 }
@@ -75,11 +78,8 @@ MEDIA */
 
 @media screen and (max-width:900px) {
     img {
-        width: 100px;
+        width: 150px;
     }
-    .player{
-        min-height: 400px;
-        width: 50%;
-        border: 1px solid #395B64;
-    }
+    
+    
 }
