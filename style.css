@@ -80,6 +80,10 @@ MEDIA */
     img {
         width: 150px;
     }
-    
+    .player{
+    min-height: 400px;
+    width: 50%;
+    border: 1px solid #395B64;
+}
     
 }
